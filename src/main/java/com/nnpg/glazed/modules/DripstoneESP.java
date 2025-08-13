@@ -139,7 +139,7 @@ public class DripstoneESP extends Module {
     private ExecutorService threadPool;
 
     public DripstoneESP() {
-        super(GlazedAddon.esp, "DripstoneESP", "ESP for long dripstone stalactites and stalagmites with threading support.");
+        super(GlazedAddon.esp, "DripstoneESP", "Highlights Grown Dripstone Stalactiles and Stalagmites");
     }
 
     @Override
